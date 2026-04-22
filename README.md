@@ -54,7 +54,7 @@
 ---
 
 ## 📫 Let's Connect
-- 💼 LinkedIn: [https://linkedin.com/in/YOUR_PROFILE](https://www.linkedin.com/in/gauravkumar2/)
+- 💼 LinkedIn: [https://www.linkedin.com/in/gauravkumar2/]
 - 📧 Email: gkummar2@gmail.com
 
 ---
