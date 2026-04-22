@@ -54,8 +54,8 @@
 ---
 
 ## 📫 Let's Connect
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_PROFILE
-- 📧 Email: your.email@example.com
+- 💼 LinkedIn: [https://linkedin.com/in/YOUR_PROFILE](https://www.linkedin.com/in/gauravkumar2/)
+- 📧 Email: gkummar2@gmail.com
 
 ---
 
