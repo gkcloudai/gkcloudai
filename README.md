@@ -1,7 +1,6 @@
 # Hi there 👋 I'm Gaurav
 
 💼 Technical Program Manager | Cloud | AI | Platform Engineering  
-📍 New Jersey, USA  
 
 ---
 
